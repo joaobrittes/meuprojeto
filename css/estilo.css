@@ -28,3 +28,20 @@ figure{
 figcaption{
     margin-top: 10px;
 }
+
+a {
+  color: blue;              
+  text-decoration: underline;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: darkblue;
+}
+
+a:active {
+  color: red;
+}
