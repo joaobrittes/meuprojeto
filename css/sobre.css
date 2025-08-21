@@ -7,7 +7,8 @@ body {
    color: #3D3D3D;
  }
 
-<h1> Sobre a Empresa </h1>  {
+
+.titulo {
    padding: 10px;
 
 +  font-size: 32px;
@@ -15,7 +16,7 @@ body {
    background-color: #E1EDF2;
  }
 
-<h2> Historia </h2> {
+.subtitulo {
    border-bottom: 2px solid black;
  }
 
