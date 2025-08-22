@@ -50,21 +50,21 @@
     .beneficios {
         margin-bottom: 3.7rem;
     }
-
+    
     .beneficios__lista {
         display: grid;
         grid-template-columns: 17.5rem 17.5rem;
         gap: 1rem;
     }
-
+    
     .beneficios__titulo {
         margin-bottom: 1rem;
     }
-
+    
     .beneficio__titulo {
         font-size: 1.1rem;
     }
-
+    
     .beneficio__texto {
         font-size: .8rem;
     }
